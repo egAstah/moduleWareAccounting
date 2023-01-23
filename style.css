@@ -1,0 +1,18 @@
+.products-block, .materials-block{
+    padding-left: 40px;
+}
+.form-check{
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #cecece;
+}
+.form-select{
+    border-radius: 0;
+    border: none;
+    border-bottom: 1px solid #cecece;
+}
+.form-select:focus{
+    box-shadow: none;
+    outline: none;
+}
